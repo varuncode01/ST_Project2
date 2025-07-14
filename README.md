@@ -1,13 +1,3 @@
-<h1>🚀 GPU Kernel Runtime Prediction Using Machine Learning</h1>
-
-<p>
-<b>Author:</b> Varun Pal <br>
-<b>Project Type:</b> EDA / Regression / Classification / Unsupervised <br>
-<b>File:</b> ML_Project2.ipynb (see note below)
-</p>
-
-<hr>
-
 <h2>⚠️ Important Note</h2>
 <p style="color: red; font-weight: bold;">
   I apologize for the inconvenience, but the <code>ML_Project2.ipynb</code> file does not render correctly on GitHub due to its large size. 
@@ -22,6 +12,16 @@
   <li>✅ Charts, tables, and visualizations</li>
   <li>✅ Evaluation reports and model explanations</li>
 </ul>
+
+<hr>
+
+<h1>🚀 GPU Kernel Runtime Prediction Using Machine Learning</h1>
+
+<p>
+<b>Author:</b> Varun Pal <br>
+<b>Project Type:</b> EDA / Regression / Classification / Unsupervised <br>
+<b>File:</b> ML_Project2.ipynb (see note below)
+</p>
 
 <hr>
 
