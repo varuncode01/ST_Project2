@@ -66,3 +66,12 @@ and visualized with confusion matrices and classification reports.
 </ul>
 
 <hr>
+
+<h2>Social Media and Contact info: </h2>
+<ul>
+  <li><a href="https://github.com/varuncode01" target="_blank">Github Profile</a></li>
+  <li><a href="https://github.com/varuncode01](https://www.linkedin.com/in/varun-pal-955ba0357?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)" target="_blank">Linkedin Profile</a></li>
+  <li><a href="varun01proffesional@gmail.com" target="_blank">Email ID</a></li>
+</ul>
+
+<hr>
