@@ -102,6 +102,3 @@ ML_Project2/
   This project provides a reliable machine learning solution for anticipating booking behavior and enhancing business processes through predictive analytics.
 </p>
 
-<hr/>
-<p align="center"><em>Created with ❤️ for data science excellence.</em></p>
-
